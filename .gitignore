@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+dino_ppo_model_v1.zip
